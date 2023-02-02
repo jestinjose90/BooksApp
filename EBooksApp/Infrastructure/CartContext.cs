@@ -16,6 +16,6 @@ namespace EBooksApp.Infrastructure
 
         public DbSet<Page> Pages { get; set; } 
       
-
+       
     }
 }
